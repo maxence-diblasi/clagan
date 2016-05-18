@@ -1,0 +1,19 @@
+.les_marques{
+    background:white;
+    padding-top:50px;
+    padding-bottom:50px;
+    h3{
+        color:#212121;
+        font-family:"Open Sans";
+        font-weight:400;
+        margin-bottom:70px;
+        text-transform: uppercase;
+    }
+    img{
+         transition: all .2s ease-in-out;
+
+    }
+    img:hover{
+        transform: scale(1.1);
+    }
+}
